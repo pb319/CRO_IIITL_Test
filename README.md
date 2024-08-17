@@ -24,8 +24,10 @@ file name- "Final.ipynb"
 Methodology:  
 - Checking Acquracy
 - Visualization of Confusion Matrix
+- Comparison of the Untreated-Model and Treated-Model
 - Cross Validation
 - Grid Search and Hyperparameter Tuning
+
 
 
 
